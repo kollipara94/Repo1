@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+new twxt file
+=======
 file created on b1
+>>>>>>> b1
